@@ -1,0 +1,10 @@
+C:\Users\Frost-PC\source\repos\badlime\badlime\bin\Debug\badlime.exe.config
+C:\Users\Frost-PC\source\repos\badlime\badlime\bin\Debug\badlime.exe
+C:\Users\Frost-PC\source\repos\badlime\badlime\bin\Debug\badlime.pdb
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.csproj.AssemblyReference.cache
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.frmMain.resources
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.Properties.Resources.resources
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.csproj.GenerateResource.cache
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.csproj.CoreCompileInputs.cache
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.exe
+C:\Users\Frost-PC\source\repos\badlime\badlime\obj\Debug\badlime.pdb
